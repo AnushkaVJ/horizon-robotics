@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="10px" viewBox="0 0 55 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>DownArrow</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="55" height="10"></rect>
+    </defs>
+    <g id="About" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="History" transform="translate(-481.000000, -865.000000)">
+            <g id="DownArrow" transform="translate(481.000000, 865.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Rectangle"></g>
+                <path d="M-140,-0.755325809 L-140,-57 L200,-57 L200,-0.755325809 L68.25,-0.755325809 C48.5561297,-0.667770393 35.2227963,2.91733821 28.25,10 C19.9014662,2.91733821 6.56813285,-0.667770393 -11.75,-0.755325809 L-11.75,-0.755325809 L-140,-0.755325809 Z" id="Rectangle-2" fill="#0066FF" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
