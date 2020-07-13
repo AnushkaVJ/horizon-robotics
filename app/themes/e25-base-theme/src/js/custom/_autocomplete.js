@@ -1,0 +1,3 @@
+$(() => {
+    $("input").attr("autocomplete", "nope");
+});
