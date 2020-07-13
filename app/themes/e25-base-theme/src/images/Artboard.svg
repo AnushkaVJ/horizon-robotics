@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="620px" height="300px" viewBox="0 0 620 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="path-copy" transform="translate(3.000000, 3.000000)" fill="#0066FF" fill-rule="nonzero">
+            <polygon id="Path" points="0 0.1 0 24.6 21 12.35"></polygon>
+        </g>
+        <g id="icons-8-expand-arrow-copy-2" transform="translate(49.000000, 3.000000)" fill="#31393C" fill-rule="nonzero">
+            <polygon id="Path" transform="translate(9.661500, 18.500000) rotate(-90.000000) translate(-9.661500, -18.500000) " points="-6.0525 9.2555 -8.2605 11.7555 8.5575 26.7555 9.6615 27.7445 10.7655 26.7555 27.5835 11.7555 25.3755 9.2555 9.6615 23.2655"></polygon>
+        </g>
+        <g id="icons-8-expand-arrow-copy-(1)" transform="translate(27.000000, 3.000000)" fill="#31393C" fill-rule="nonzero">
+            <polygon id="Path" transform="translate(9.338500, 18.500000) scale(-1, 1) rotate(-90.000000) translate(-9.338500, -18.500000) " points="-6.3755 9.2555 -8.5835 11.7555 8.2345 26.7555 9.3385 27.7445 10.4425 26.7555 27.2605 11.7555 25.0525 9.2555 9.3385 23.2655"></polygon>
+        </g>
+        <g id="icons-8-expand-arrow" transform="translate(71.000000, 3.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path" transform="translate(9.661500, 18.500000) rotate(-90.000000) translate(-9.661500, -18.500000) " points="-6.0525 9.2555 -8.2605 11.7555 8.5575 26.7555 9.6615 27.7445 10.7655 26.7555 27.5835 11.7555 25.3755 9.2555 9.6615 23.2655"></polygon>
+        </g>
+        <g id="icons-8-expand-arrow-copy" transform="translate(93.000000, 3.000000)" fill="#31393C" fill-rule="nonzero" opacity="0.3">
+            <polygon id="Path" transform="translate(9.338500, 18.500000) scale(-1, 1) rotate(-90.000000) translate(-9.338500, -18.500000) " points="-6.3755 9.2555 -8.5835 11.7555 8.2345 26.7555 9.3385 27.7445 10.4425 26.7555 27.2605 11.7555 25.0525 9.2555 9.3385 23.2655"></polygon>
+        </g>
+        <g id="icons-8-right-(1)" transform="translate(115.000000, 3.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path" points="5.789 0.465 5 1.215 7.405 3.5 0 3.5 0 4.5 7.405 4.5 5 6.785 5.789 7.535 9.511 4"></polygon>
+        </g>
+        <g id="icons-8-right" transform="translate(115.000000, 14.000000)" fill="#F76F24" fill-rule="nonzero">
+            <polygon id="Path" points="5.789 0.465 5 1.215 7.405 3.5 0 3.5 0 4.5 7.405 4.5 5 6.785 5.789 7.535 9.511 4"></polygon>
+        </g>
+    </g>
+</svg>
